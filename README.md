@@ -1,7 +1,7 @@
 ## Planilha multimodal - Juan
 
 
-Quantidade de empresas com a data vigente por ano
+* Quantidade de empresas com a data vigente por ano
 
 
 https://github.com/juan2365/Fonte-de-Dados-/blob/main/operador_transporte_multimodal.xlsx%20feito.xlsx
